@@ -21,7 +21,7 @@ cryptography==2.3.1
 cycler==0.10.0
 dask==0.19.0
 decorator==4.3.0
-Django==2.1.1
+Django==2.1.11
 entrypoints==0.2.3
 enum34==1.1.6
 Flask==0.12.2
